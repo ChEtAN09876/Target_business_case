@@ -4,12 +4,9 @@
 
   ## Data Sources
   - Customer Data: The dataset used for this analysis is in the "customers.csv" file, contain detail information about the customers in the company
-
-Order Data: The dataset used for this analysis is in the "order_items.csv", "order_reviews.csv", "orders.csv" file, contains detail information about the orders placed by the customers
-
-Payment Data: The Dataset used for this analysis is in the "payments.csv" file, contain detail information about the payments methods used by the customers
-
-Product Data: The Dataset used for this analysis is in the "product.csv" file, contains detail information about the products in the company
+  - Order Data: The dataset used for this analysis is in the "order_items.csv", "order_reviews.csv", "orders.csv" file, contains detail information about the orders placed by the customers
+  - Payment Data: The Dataset used for this analysis is in the "payments.csv" file, contain detail information about the payments methods used by the customers
+  - Product Data: The Dataset used for this analysis is in the "product.csv" file, contains detail information about the products in the company
 
 
 ## Tools
